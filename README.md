@@ -16,8 +16,7 @@ i like corn thins
 and playing the trumpet
 
 
-also i mostly use
-python
+
 
 
 also member of the
