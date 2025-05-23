@@ -1,6 +1,6 @@
 hello fellow gits
 
-i am a new git
+i am a ~~new~~ git
 
 brought to the git hub
 
